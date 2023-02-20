@@ -109,17 +109,17 @@ namespace RockPaperScissors_
             
             if (_iUserPoints > _iComputerPoints)
             {
-                Console.WriteLine("You won!!");
+                Console.WriteLine("You won!!💃🎉✨");
                 Console.WriteLine("                        --------");
             }
             else if (_iUserPoints < _iComputerPoints)
             {
-                Console.WriteLine("You Lost");
+                Console.WriteLine("You Lost"😮😥);
                 Console.WriteLine("                        --------");
             }
             else if (_iUserPoints == _iComputerPoints)
             {
-                Console.WriteLine("It's a draw!");
+                Console.WriteLine("It's a draw!😎🤔");
                 Console.WriteLine("                      -----------");
             }
             
